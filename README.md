@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Casey Brandenburg, and I am a 22 year old computer science student studying at the University of Kentucky.
 
 <!--
 **CaseyBrandenburg/CaseyBrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
