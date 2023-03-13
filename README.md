@@ -3,6 +3,8 @@ My name is Casey Brandenburg, and I am a 23 year old computer science student st
 
 Right now I am learning the swift programming language and using it to learn the process of ios app development.
 
+I am currently developing a Christian fitness and life improvement application called Crowns. Stay tuned for updates!
+
 <!--
 **CaseyBrandenburg/CaseyBrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
