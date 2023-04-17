@@ -1,9 +1,15 @@
-### Hi there 👋
+### Hello! 👋
 My name is Casey Brandenburg, and I am a 23 year old computer science student studying at the University of Kentucky.
 
-Right now I am learning the swift programming language and using it to learn the process of ios app development.
+My passion is front-end UI/UX development, particulary for mobile applications.
 
-I am currently developing a Christian fitness and life improvement application called Crowns. Stay tuned for updates!
+I am currently solo-developing a Christian fitness, nutrition, and life improvement IOS application called Crowns.
+This has been an incredible experience learning the ins and outs of the Swift programming language, SwiftUI, and the full-stack
+application development process. It has also been excellent practice for designing intuitive user interfaces, and tuning
+them based on feedback from my pool of beta testers.
+
+In addition to this, I hope to soon start learning React, and becoming more familiar with that workflow.
+
 
 <!--
 **CaseyBrandenburg/CaseyBrandenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
