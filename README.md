@@ -1,7 +1,8 @@
 ### Hello! 👋
 My name is Casey Brandenburg, and I am a 23 year old computer science student studying at the University of Kentucky.
 
-My passion is front-end UI/UX development, particulary for mobile applications.
+My passion is front-end UI/UX development, particulary for mobile applications, although I greatly enjoy the UI design
+process regardless of what platform/purpose the design may be for.
 
 I am currently solo-developing a Christian fitness, nutrition, and life improvement IOS application called Crowns.
 This has been an incredible experience learning the ins and outs of the Swift programming language, SwiftUI, and the full-stack
