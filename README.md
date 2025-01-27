@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Casey Brandenburg, and I am a 23 year old computer science student studying at the University of Kentucky.
+My name is Casey Brandenburg, and I am a 25 year old software developer recently graduated from the University of Kentucky.
 
 My passion is front-end UI/UX development, particulary for mobile applications, although I greatly enjoy the UI design
 process regardless of what platform/purpose the design may be for.
